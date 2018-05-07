@@ -54,10 +54,10 @@ ticks
 30.0
 
 BUTTON
-69
-45
-135
-78
+7
+44
+73
+77
 NIL
 setup
 NIL
@@ -71,13 +71,30 @@ NIL
 1
 
 BUTTON
-137
-45
-200
-78
+142
+44
+205
+77
 NIL
 go
 T
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+BUTTON
+75
+44
+140
+77
+go once
+go
+NIL
 1
 T
 OBSERVER
